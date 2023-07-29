@@ -1,1 +1,3 @@
-These are python notebook files related to the topic developed in the Probabilistic Data Driven Modeling book by T Aste.
+# Probabilistic data-driven modeling
+
+This repo contains the code related to the book titled __Probabilistic data-driven modeling__, written by Tomaso Aste, professor of Complexity Science at University College London. The book introduces and guides the reader through a selection of methodologies and approaches to construct models from data. These data-driven approaches have been originally developed in different fields from statistics to complexity science. They are general procedures and tools that apply to any domain where models must be built from observational data. The code in the current repository is organised by Chapters and presents an applied perspective on modeling of real complex systems.
